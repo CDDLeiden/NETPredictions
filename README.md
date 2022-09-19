@@ -1,4 +1,3 @@
-# Proteochemometric modeling identifies chemically diverse norepinephrine transporter inhibitors
 Protocols, components and code used from the manuscript "Proteochemometric modeling identifies chemically diverse norepinephrine transporter inhibitors" submitted by Brandon J. Bongers And Huub J. Sijben. (Submission in Progress)
 
 .ppxml files were created and run in Pipeline Pilot (Version 18)
